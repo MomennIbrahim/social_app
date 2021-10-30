@@ -5,6 +5,7 @@ import 'package:social_app/social_layout/cubit/cubit.dart';
 import 'package:social_app/social_layout/cubit/states.dart';
 
 class SocialLayout extends StatelessWidget {
+  //Hello
   @override
   Widget build(BuildContext context)
   {
